@@ -6,7 +6,7 @@
 
 ## 프로젝트 목록
 ### 1. [서울시 구별 인구수 CCTV 현황 분석]
-- 소스 코드 : [바로가기](data_science/source_code/01.%20서울시%20구별%20CCTV%20현황-checkpoint.ipynb)
+- 소스 코드 : [바로가기](data_science/blob/main/source_code/01.%20서울시%20구별%20CCTV%20현황-checkpoint.ipynb)
 - 사용 언어: Python (Pandas, Numpy, Matplotlib)
 - 주요 내용: 선형회귀를 활용한 서울시 구별 인구수 및 CCTV 현황 분
 - 주요 결과: 인구수 대비 CCTV가 월등히 많은 구 = 강남구, 월등히 적은 구 = 노원구
