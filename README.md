@@ -5,7 +5,7 @@
 이 저장소는 제가 수행한 데이터 분석 및 머신러닝 프로젝트를 포함하고 있습니다.
 
 ## 프로젝트 목록
-### 1. [서울시 구별 인구수 CCTV 현황 분석]
+### 1. 서울시 구별 인구수 CCTV 현황 분석
 - 소스 코드 : [바로가기](https://github.com/somyeng/data_science/blob/main/source_code/01.%20%EC%84%9C%EC%9A%B8%EC%8B%9C%20%EA%B5%AC%EB%B3%84%20CCTV%20%ED%98%84%ED%99%A9-checkpoint.ipynb)
 - 사용 언어: Python (Pandas, Numpy, Matplotlib)
 - 주요 내용: 선형회귀를 활용한 서울시 구별 인구수 및 CCTV 현황 분
