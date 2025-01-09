@@ -10,6 +10,8 @@
 - 사용 언어: Python (Pandas, Numpy, Matplotlib)
 - 주요 내용: 선형회귀를 활용한 서울시 구별 인구수 및 CCTV 현황 분석
 - 주요 결과: 인구수 대비 CCTV가 월등히 많은 구 = 강남구, 월등히 적은 구 = 노원구
+![image](https://github.com/user-attachments/assets/8c19365c-2877-4bb3-a67a-282f28598d7c)
+
 ### 2. 전국 범죄 발생 및 검거 현황 분석
 - 소스 코드 : [바로가기]()
 - 사용 언어 : Python (Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn, Folium)
