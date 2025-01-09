@@ -17,4 +17,4 @@
 - SQL, Excel
 
 ## 참고 자료
-- 파이썬으로 데이터 주무르기 [바로가기](https://github.com/PinkWink/DataScience)
+- PinkWink/DataScience [바로가기](https://github.com/PinkWink/DataScience)
