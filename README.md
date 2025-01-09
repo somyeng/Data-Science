@@ -8,12 +8,17 @@
 ### 1. 서울시 구별 인구수 CCTV 현황 분석
 - 소스 코드 : [바로가기](https://github.com/somyeng/data_science/blob/main/source_code/01.%20%EC%84%9C%EC%9A%B8%EC%8B%9C%20%EA%B5%AC%EB%B3%84%20CCTV%20%ED%98%84%ED%99%A9-checkpoint.ipynb)
 - 사용 언어: Python (Pandas, Numpy, Matplotlib)
-- 주요 내용: 선형회귀를 활용한 서울시 구별 인구수 및 CCTV 현황 분
+- 주요 내용: 선형회귀를 활용한 서울시 구별 인구수 및 CCTV 현황 분석
 - 주요 결과: 인구수 대비 CCTV가 월등히 많은 구 = 강남구, 월등히 적은 구 = 노원구
+### 2. 전국 범죄 발생 및 검거 현황 분석
+- 소스 코드 : [바로가기]()
+- 사용 언어 : Python (Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn, Folium)
+- 주요 내용 : 전국 검거율 및 범죄율에 대해 지도 시각화를 통한 분석
+- 주요 결과 : 범죄 검거율 1위 = 인천광역시, 범죄 발생건수 1위 = 경기도
 
 ## 기술 스택
 - Python, Pandas, NumPy
-- Scikit-learn, Matplotlib, Seaborn
+- Scikit-learn, Matplotlib, Seaborn, Folium
 - SQL, Excel
 
 ## 참고 자료
