@@ -24,7 +24,9 @@
 
 ## 기술 스택
 - Python
-- Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Folium
+- Pandas, NumPy, Scikit-learn
+- Matplotlib, Seaborn, Folium
+- BeautifulSoup
 
 ## 참고 자료
 - PinkWink/DataScience [바로가기](https://github.com/PinkWink/DataScience)
