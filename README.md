@@ -30,8 +30,8 @@
 
 
 ### 3. 서울시 구별 주유 가격 분석
-- 소스 코드 : [바로가기]()
-- 사용 언어 : Python (Selenium, Pandas, Matplotlib, Seaborn)
+- 소스 코드 : [바로가기](https://github.com/somyeng/Data-Science/blob/main/source_code/03.%20%EC%84%9C%EC%9A%B8%EC%8B%9C%20%EA%B5%AC%EB%B3%84%20%EC%A3%BC%EC%9C%A0%20%EA%B0%80%EA%B2%A9%20%EB%B6%84%EC%84%9D.ipynb)
+- 사용 언어 : Python (Selenium, Pandas, Numpy, Matplotlib, Seaborn, Folium)
 - 주요 내용 : 서울시 구별 셀프 여부에 따른 주유 가격 및 구별 주유 가격 시각화를 통한 분석 (top5=Red_Circle, bottom5=Blue_Circle
 - 주요 결과 : 서울시 주유 가격 가장 높은 구 = '용산구', 가장 낮은 구 = '은평구'
  ![image](https://github.com/user-attachments/assets/13188562-e772-4b49-aeda-eee78c1b8bca)
